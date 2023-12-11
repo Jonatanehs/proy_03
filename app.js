@@ -1,5 +1,8 @@
+// se importa el modulo de colores de node js 
 require('colors');
 
+/* se requiere las funciones que estan en matematicas
+y se guardara en matematicas  */
 const matematicas = require('./modules/matematicas.js') 
     
 const main = async() => {
